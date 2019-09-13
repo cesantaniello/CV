@@ -83,3 +83,21 @@
   font-size: 40px;
   color: var(--blue-navy);
 }
+
+.skill-item{
+  margin-bottom: 24px;
+}
+
+.skill-item .text{
+  margin-bottom: 8px
+}
+
+.skill-item .progress .progress-bar{
+  height: 10px;
+  border-radius: 5px;
+  vertical-align: middle;
+  align-self: center;
+  background-image: -moz-linear-gradient(0deg, var(--blue-light) 0%, var(--brown-leather))
+  background-image: -webkit-linear-gradient(0deg, var(--blue-light) 0%, var(--brown-leather))
+  background-image: -ms-linear-gradient(0deg, var(--blue-light) 0%, var(--brown-leather))
+}
