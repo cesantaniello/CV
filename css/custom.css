@@ -7,7 +7,7 @@
   --blue-navy: #05205D;
   --blue-light: #3155A7;
   --brown-leather: #AB987A;
-  --orange-coral: #FF833D;
+  --black: #000000;
   --white-egg: #F5F5F5;
 }
 /*
@@ -17,7 +17,7 @@
 */
 .header-area .main-menu,
 .header-area .main-menu, .dropdown-menu {
-  background: var(--orange-coral);
+  background: var(--black);
   box-shadow: 0 3px 16 0 rgba(0, 0, 0, .1);
 }
 .header-area .main-menu .navbar {
