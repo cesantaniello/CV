@@ -61,7 +61,7 @@
 }
 .main-info .container .txt-col .text-container p {
   font-size: 16px;
-  color: var(--brown-leather);
+  color: var(--black);
   margin-bottom: 20px;
 }
 .main-info .container .txt-col .text-container ul.basic-info {
@@ -110,7 +110,7 @@
   border-radius: 5px;
   vertical-align: middle;
   align-self: center;
-  background: linear-gradient(90deg, var(--blue-light) 0%, var(--brown-leather) 100%);
+  background: linear-gradient(90deg, var(--blue-light) 0%, var(--black) 100%);
 }
 /*
 *************************************
